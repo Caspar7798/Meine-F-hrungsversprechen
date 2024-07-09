@@ -90,7 +90,7 @@
         <p>Ich verspreche, regelmäßiges und konstruktives Feedback zu geben und zu empfangen. Ich fördere eine Kultur der kontinuierlichen Verbesserung, in der Lernen und Wachstum an erster Stelle stehen.</p>
     </div>
     <footer>
-        <p>&copy; 2024 Mein Name</p>
+        <p>&copy; 2024 Caspar Schäfer</p>
     </footer>
 </body>
 </html>
